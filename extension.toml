@@ -1,0 +1,7 @@
+id = "oxid"
+name = "Oxid"
+version = "0.0.1"
+schema_version = 1
+authors = ["Anand Narawade <anandnarawade.an@gmail.com>"]
+description = "A simple extension to learn ZED developement"
+repository = "https://github.com/Anand1997/oxid.git"
